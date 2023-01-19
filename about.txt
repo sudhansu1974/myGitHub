@@ -3,3 +3,5 @@ About Git:
 Git is a verson control system.
 
 Git is used to keep track of code changes.
+
+Github is a remote repository online.
